@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @afridermawanginting
-- afridermawanginting.github.io
+- I'm a DevOps & Server Engineering
+- [Contact me in here!](https://afridermawanginting.github.io)
 
 <!---
 afridermawanginting/afridermawanginting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
