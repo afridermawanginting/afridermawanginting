@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afridermawanginting
-- https://afridermawanginting.github.io
+- afridermawanginting.github.io
 
 <!---
 afridermawanginting/afridermawanginting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
