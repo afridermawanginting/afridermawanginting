@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afridermawanginting
-- I'm a DevOps & Server Engineering
+- I'm interested in DevOps & Server Engineering
 - [Contact me in here!](https://afridermawanginting.github.io)
 
 <!---
