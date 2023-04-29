@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afridermawanginting
+- 👋 Hi, I’m Afri Dermawan Ginting
 - I'm interested in DevOps & Server Engineering
 
 <p align="left">
